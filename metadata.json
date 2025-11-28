@@ -1,0 +1,5 @@
+{
+  "name": "TradeTok",
+  "description": "An image-based pawnshop marketplace with a TikTok-style vertical feed. This initial phase sets up the frontend application structure with mock data and navigation.",
+  "requestFramePermissions": []
+}
